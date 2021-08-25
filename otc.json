@@ -1,7 +1,7 @@
 {
     "product" :  [
         {
-        "Product Code": "002",
+        "Code": "002",
         "Product Name" : "Acetaminophen 500 mg",
         "Compare to": "Tylenol® Extra Strength",
         "Package Count": "100",
@@ -18,7 +18,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "010",
+        "Code": "010",
         "Product Name" : "Vitamin C 500 mg",
         "Compare to": "Vitamin C 500 mg",
         "Package Count": "100",
@@ -35,7 +35,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "011",
+        "Code": "011",
         "Product Name" : "Daily Multivitamin and Mineral",
         "Compare to": "Centrum®",
         "Package Count": "130",
@@ -52,7 +52,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "012",
+        "Code": "012",
         "Product Name" : "Vitamin E 400 IU",
         "Compare to": "Vitamin E 400 IU",
         "Package Count": "100",
@@ -69,7 +69,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "016",
+        "Code": "016",
         "Product Name" : "Aspirin Low Dose 81 mg EC",
         "Compare to": "Bayer® Adult Low Strength EC",
         "Package Count": "120",
@@ -86,7 +86,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "019",
+        "Code": "019",
         "Product Name" : "Ibuprofen 200 mg Tablets",
         "Compare to": "Advil®",
         "Package Count": "50",
@@ -103,7 +103,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "020",
+        "Code": "020",
         "Product Name" : "Acetaminophen 80 mg chewable",
         "Compare to": "Tylenol® Children’s Chewable",
         "Package Count": "30",
@@ -120,7 +120,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "031",
+        "Code": "031",
         "Product Name" : "Anti-Hemorrhoidal Ointment",
         "Compare to": "Preparation H®",
         "Package Count": "2 oz",
@@ -137,7 +137,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "032",
+        "Code": "032",
         "Product Name" : "Antacid/Anti-Gas Liquid",
         "Compare to": "Mylanta®",
         "Package Count": "12oz",
@@ -154,7 +154,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "033",
+        "Code": "033",
         "Product Name" : "Milk of Magnesia - Laxative/Antacid",
         "Compare to": "Phillips® Milk of Magnesia",
         "Package Count": "12 oz",
@@ -171,7 +171,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "035",
+        "Code": "035",
         "Product Name" : "Alcohol Prep Pads",
         "Compare to": "Curad® Alcohol Swabs",
         "Package Count": "100",
@@ -188,7 +188,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "036",
+        "Code": "036",
         "Product Name" : "Cotton Swabs",
         "Compare to": "GNP Cotton Swab 300CT",
         "Package Count": "300",
@@ -205,7 +205,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "037",
+        "Code": "037",
         "Product Name" : "Calamine Lotion",
         "Compare to": "Calamine",
         "Package Count": "6 oz",
@@ -222,7 +222,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "038",
+        "Code": "038",
         "Product Name" : "Clotrimazole Cream 1%",
         "Compare to": "Lotrimin AF®",
         "Package Count": "0.5 oz",
@@ -239,7 +239,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "041",
+        "Code": "041",
         "Product Name" : "Clotrimazole 1% Vaginal Cream",
         "Compare to": "Gyne-Lotrimin® Cream",
         "Package Count": "1.5 oz",
@@ -256,7 +256,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "043",
+        "Code": "043",
         "Product Name" : "Medicated Chest Rub",
         "Compare to": "Vicks VapoRub®",
         "Package Count": "100 gm",
@@ -273,7 +273,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "046",
+        "Code": "046",
         "Product Name" : "Muscle Rub",
         "Compare to": "BenGay®",
         "Package Count": "4 oz",
@@ -290,7 +290,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "048",
+        "Code": "048",
         "Product Name" : "Oral Thermometer",
         "Compare to": "B-D® Oral Thermometer",
         "Package Count": "1",
@@ -307,7 +307,7 @@
         "Limit One Per Plan Year": "YES"
         },
         {
-        "Product Code": "063",
+        "Code": "063",
         "Product Name" : "Complete Senior Vitamins and Minerals",
         "Compare to": "Centrum® Silver",
         "Package Count": "60",
@@ -324,7 +324,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "093",
+        "Code": "093",
         "Product Name" : "Bisacodyl 5 mg",
         "Compare to": "Dulcolax®",
         "Package Count": "25",
@@ -341,7 +341,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "094",
+        "Code": "094",
         "Product Name" : "Ibuprofen Suspension (Children’s)",
         "Compare to": "Children’s Motrin®",
         "Package Count": "4 oz",
@@ -358,7 +358,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "095",
+        "Code": "095",
         "Product Name" : "Nasal Decongestant Spray",
         "Compare to": "Afrin®",
         "Package Count": "1 oz",
@@ -375,7 +375,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "096",
+        "Code": "096",
         "Product Name" : "Cough Suppressant/Nasal Decongestant/Expectorant*",
         "Compare to": "Robitussin® CF",
         "Package Count": "4 oz",
@@ -392,7 +392,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "097",
+        "Code": "097",
         "Product Name" : "Sinus-Acetaminophen/ Phenylephrine HCI",
         "Compare to": "Tylenol® Sinus",
         "Package Count": "24",
@@ -409,7 +409,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "101",
+        "Code": "101",
         "Product Name" : "Stool Softener Capsules",
         "Compare to": "Colace®",
         "Package Count": "100",
@@ -426,7 +426,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "107",
+        "Code": "107",
         "Product Name" : "One Daily Women’s Multi-Vitamin",
         "Compare to": "One-A-Day Women’s®",
         "Package Count": "60",
@@ -443,7 +443,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "109",
+        "Code": "109",
         "Product Name" : "Calcium Citrate + Vitamin D",
         "Compare to": "Citracal® Caplets + D",
         "Package Count": "60",
@@ -460,7 +460,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "110",
+        "Code": "110",
         "Product Name" : "Loratadine 10 mg",
         "Compare to": "Claritin®",
         "Package Count": "30",
@@ -477,7 +477,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "111",
+        "Code": "111",
         "Product Name" : "Expectorant - Guaifenesin 400 mg",
         "Compare to": "Mucus Relief 400 mg",
         "Package Count": "30",
@@ -494,7 +494,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "112",
+        "Code": "112",
         "Product Name" : "Omeprazole 20 mg",
         "Compare to": "Prilosec OTC® 20.6 mg (20mg of omeprazole)",
         "Package Count": "14 oz",
@@ -511,7 +511,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "113",
+        "Code": "113",
         "Product Name" : "Cetirizine HCL 10 mg",
         "Compare to": "Zyrtec® 10 mg",
         "Package Count": "30",
@@ -528,7 +528,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "114",
+        "Code": "114",
         "Product Name" : "Lubricant Eye Drops (Sterile)",
         "Compare to": "Lubricant Eye Drops (Sterile)",
         "Package Count": "0.5 oz",
@@ -545,7 +545,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "115",
+        "Code": "115",
         "Product Name" : "Pink Bismuth - Chewable Tablets",
         "Compare to": "Pepto-Bismol® Chewable Tablets",
         "Package Count": "30",
@@ -562,7 +562,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "116",
+        "Code": "116",
         "Product Name" : "Dairy Digestive Supplement- Lactase Enzyme",
         "Compare to": "Lactaid® Tablets",
         "Package Count": "60",
@@ -579,7 +579,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "117",
+        "Code": "117",
         "Product Name" : "Menthol/Benzocaine Sore Throat Lozenges",
         "Compare to": "Cepacol® Lozenges",
         "Package Count": "18",
@@ -596,7 +596,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "118",
+        "Code": "118",
         "Product Name" : "Earwax Removal Drops",
         "Compare to": "Debrox® Earwax Removal Drops",
         "Package Count": "0.5 oz",
@@ -613,7 +613,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "119",
+        "Code": "119",
         "Product Name" : "Topical Analgesic - Capsaicin Cream Regular Strength",
         "Compare to": "Zostrix® Cream",
         "Package Count": "2 oz",
@@ -630,7 +630,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "120",
+        "Code": "120",
         "Product Name" : "Motion Sickness Tablets - Dimenhydrinate 50 mg",
         "Compare to": "Dramamine®",
         "Package Count": "12",
@@ -647,7 +647,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "123",
+        "Code": "123",
         "Product Name" : "Stop Smoking Gum - 2 mg",
         "Compare to": "Nicorette® 2 mg gum",
         "Package Count": "50",
@@ -664,7 +664,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "124",
+        "Code": "124",
         "Product Name" : "Stop Smoking Gum - 4 mg",
         "Compare to": "Nicorette® 4 mg gum",
         "Package Count": "50",
@@ -681,7 +681,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "125",
+        "Code": "125",
         "Product Name" : "Headache Formula - Aspirin/Acetaminophen/Caffeine",
         "Compare to": "Excedrin®",
         "Package Count": "100",
@@ -698,7 +698,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "203",
+        "Code": "203",
         "Product Name" : "Calcium Carbonate Antacid - Regular Strength",
         "Compare to": "Tums® Regular Strength",
         "Package Count": "150",
@@ -715,7 +715,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "208",
+        "Code": "208",
         "Product Name" : "Fiber Laxative Tablets",
         "Compare to": "FiberCon®",
         "Package Count": "90",
@@ -732,7 +732,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "209",
+        "Code": "209",
         "Product Name" : "Vitamin D 1000 IU",
         "Compare to": "Vitamin D 1000 IU",
         "Package Count": "100",
@@ -749,7 +749,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "210",
+        "Code": "210",
         "Product Name" : "Cough Suppressant/Expectorant* (sugar free)",
         "Compare to": "Robitussin® Sugar Free DM",
         "Package Count": "4 oz",
@@ -766,7 +766,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "213",
+        "Code": "213",
         "Product Name" : "Cold and Hot Patches",
         "Compare to": "Icy Hot® Patch",
         "Package Count": "5",
@@ -783,7 +783,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "215",
+        "Code": "215",
         "Product Name" : "Effervescent Antacid & Pain Relief",
         "Compare to": "Alka-Seltzer®",
         "Package Count": "36",
@@ -800,7 +800,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "216",
+        "Code": "216",
         "Product Name" : "Hemorrhoidal Suppositories",
         "Compare to": "Preparation H® Suppositories",
         "Package Count": "12",
@@ -817,7 +817,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "217",
+        "Code": "217",
         "Product Name" : "Allergy Cream - Itch and Pain Relief",
         "Compare to": "Benadryl® Extra Strength Cream",
         "Package Count": "1 oz",
@@ -834,7 +834,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "218",
+        "Code": "218",
         "Product Name" : "Tolnaftate 1% Antifungal",
         "Compare to": "Tinactin® Cream",
         "Package Count": "1.25 oz",
@@ -851,7 +851,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "219",
+        "Code": "219",
         "Product Name" : "Eye Drops - Redness Reliever",
         "Compare to": "Visine® Original",
         "Package Count": "0.5 oz",
@@ -868,7 +868,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "220",
+        "Code": "220",
         "Product Name" : "Phenol/Oral Anesthetic Sore Throat Spray",
         "Compare to": "Chloraseptic®",
         "Package Count": "6 oz",
@@ -885,7 +885,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "224",
+        "Code": "224",
         "Product Name" : "Dental Floss, waxed",
         "Compare to": "Oral B Essential Floss Twin PK 2X50M - Mint",
         "Package Count": "2",
@@ -902,7 +902,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "225",
+        "Code": "225",
         "Product Name" : "Denture Adhesive",
         "Compare to": "Fixodent®",
         "Package Count": "1.5 oz",
@@ -919,7 +919,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "226",
+        "Code": "226",
         "Product Name" : "Elastic Bandage",
         "Compare to": "Ace® Bandage",
         "Package Count": "1",
@@ -936,7 +936,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "228",
+        "Code": "228",
         "Product Name" : "Nasal Decongestant PE Max Strength",
         "Compare to": "Sudafed® PE Tablets",
         "Package Count": "36",
@@ -953,7 +953,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "229",
+        "Code": "229",
         "Product Name" : "Enteric Coated Aspirin 325 mg",
         "Compare to": "Ecotrin®",
         "Package Count": "100",
@@ -970,7 +970,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "231",
+        "Code": "231",
         "Product Name" : "Triple Antibiotic Ointment Plus",
         "Compare to": "Neosporin® + Pain Relief",
         "Package Count": "1 oz",
@@ -987,7 +987,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "233",
+        "Code": "233",
         "Product Name" : "Senna Laxative Tablets",
         "Compare to": "Senokot®",
         "Package Count": "100",
@@ -1004,7 +1004,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "237",
+        "Code": "237",
         "Product Name" : "Daytime Cold and Flu Soft Gels*",
         "Compare to": "DayQuil®",
         "Package Count": "16",
@@ -1021,7 +1021,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "238",
+        "Code": "238",
         "Product Name" : "Vitamin B-12 1000 mcg",
         "Compare to": "Vitamin B-12 1000 mcg",
         "Package Count": "100",
@@ -1038,7 +1038,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "239",
+        "Code": "239",
         "Product Name" : "Vitamin D 5000 IU",
         "Compare to": "Vitamin D 5000 IU",
         "Package Count": "100",
@@ -1055,7 +1055,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "240",
+        "Code": "240",
         "Product Name" : "Folic Acid 800 mcg",
         "Compare to": "Folic Acid 800 mcg",
         "Package Count": "100",
@@ -1072,7 +1072,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "241",
+        "Code": "241",
         "Product Name" : "Medicated Callus Remover",
         "Compare to": "Dr. Scholl’s®",
         "Package Count": "6",
@@ -1089,7 +1089,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "242",
+        "Code": "242",
         "Product Name" : "Blood Pressure Home Kit (manual pump w/stethoscope)**",
         "Compare to": "Blood Pressure Home Kit (manual pump w/stethoscope)",
         "Package Count": "1",
@@ -1106,7 +1106,7 @@
         "Limit One Per Plan Year": "YES"
         },
         {
-        "Product Code": "243",
+        "Code": "243",
         "Product Name" : "Bladder control pads (regular)",
         "Compare to": "Poise® Moderate Pads",
         "Package Count": "20",
@@ -1123,7 +1123,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "244",
+        "Code": "244",
         "Product Name" : "Electric Heating Pad**",
         "Compare to": "Sunbeam® Electric Heating Pad",
         "Package Count": "1",
@@ -1140,7 +1140,7 @@
         "Limit One Per Plan Year": "YES"
         },
         {
-        "Product Code": "245",
+        "Code": "245",
         "Product Name" : "Digital Blood Pressure Monitor**",
         "Compare to": "Digital Blood Pressure Monitor",
         "Package Count": "1",
@@ -1157,7 +1157,7 @@
         "Limit One Per Plan Year": "YES"
         },
         {
-        "Product Code": "246",
+        "Code": "246",
         "Product Name" : "Liquid Iron Formulation 220mg/5ml",
         "Compare to": "Liquid Iron",
         "Package Count": "16 oz",
@@ -1174,7 +1174,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "247",
+        "Code": "247",
         "Product Name" : "Digital Bathroom scale",
         "Compare to": "Doran Scales",
         "Package Count": "1",
@@ -1191,7 +1191,7 @@
         "Limit One Per Plan Year": "YES"
         },
         {
-        "Product Code": "248",
+        "Code": "248",
         "Product Name" : "Chewable Calcium with Vitamin D Plus Minerals",
         "Compare to": "Caltrate® 600 + D Plus Minerals Chewable",
         "Package Count": "60",
@@ -1208,7 +1208,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "250",
+        "Code": "250",
         "Product Name" : "Almebex Plus B-12",
         "Compare to": "Almebex Plus B-12®",
         "Package Count": "473 ml",
@@ -1225,7 +1225,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "251",
+        "Code": "251",
         "Product Name" : "Adult Incontinence Underwear Small",
         "Compare to": "Protection Plus® Classic Protective Underwear Small 20”-28”",
         "Package Count": "22",
@@ -1242,7 +1242,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "252",
+        "Code": "252",
         "Product Name" : "Adult Incontinence Underwear Medium",
         "Compare to": "Protection Plus® Classic Protective Underwear Medium 28”-40”",
         "Package Count": "20",
@@ -1259,7 +1259,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "253",
+        "Code": "253",
         "Product Name" : "Adult Incontinence Underwear Large",
         "Compare to": "Protection Plus® Classic Protective Underwear Large 40”-56”",
         "Package Count": "18",
@@ -1276,7 +1276,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "254",
+        "Code": "254",
         "Product Name" : "Adult Incontinence Underwear X-Large",
         "Compare to": "Protection Plus® Classic Protective Underwear X-Large 56”-68”",
         "Package Count": "14",
@@ -1293,7 +1293,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "255",
+        "Code": "255",
         "Product Name" : "Adult Incontinence Underwear XX-Large",
         "Compare to": "Protection Plus® Classic Protective Underwear XX-Large 68”-80”",
         "Package Count": "12",
@@ -1310,7 +1310,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "256",
+        "Code": "256",
         "Product Name" : "Absorbent Underpads (Disposable Chux Pads) 23”x36”",
         "Compare to": "Protection Plus® Disposable Underpads 23”x36”",
         "Package Count": "20",
@@ -1327,7 +1327,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "257",
+        "Code": "257",
         "Product Name" : "7-Day Pill Box",
         "Compare to": "7-Day Pill Box",
         "Package Count": "1",
@@ -1344,7 +1344,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "258",
+        "Code": "258",
         "Product Name" : "Psyllium Fiber Laxative Capsules",
         "Compare to": "Metamucil® Capsules",
         "Package Count": "160",
@@ -1361,7 +1361,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "260",
+        "Code": "260",
         "Product Name" : "Cough and Cold High Blood Pressure Tablets*",
         "Compare to": "Coricidin® HBP Cough and Cold",
         "Package Count": "16",
@@ -1378,7 +1378,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "261",
+        "Code": "261",
         "Product Name" : "Famotidine 20 mg",
         "Compare to": "Pepcid® 20 mg",
         "Package Count": "25",
@@ -1395,7 +1395,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "264",
+        "Code": "264",
         "Product Name" : "Polyethylene Glycol 3350",
         "Compare to": "MiraLAX®",
         "Package Count": "8.3 oz",
@@ -1412,7 +1412,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "265",
+        "Code": "265",
         "Product Name" : "Compression Stockings 15-20mmHg Regular Beige Size A (Ankle: 7” - 7 7/8”; Calf: 10” - 13”)",
         "Compare to": "JOBST® Compression Stockings 15-20mmHg Regular Beige Size A (Ankle: 7” - 7 7/8”; Calf: 10” - 13”)",
         "Package Count": "1 pair",
@@ -1429,7 +1429,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "266",
+        "Code": "266",
         "Product Name" : "Compression Stockings 15-20mmHg Regular Beige Size B (Ankle: 8” - 8 7/8”; Calf: 12” - 15”)",
         "Compare to": "JOBST® Compression Stockings 15-20mmHg Regular Beige Size B (Ankle: 8” - 8 7/8”; Calf: 12” - 15”)",
         "Package Count": "1 pair",
@@ -1446,7 +1446,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "267",
+        "Code": "267",
         "Product Name" : "Compression Stockings 15-20mmHg Regular Beige Size C (Ankle: 9” - 9 7/8”; Calf: 14” - 17”)",
         "Compare to": "JOBST® Compression Stockings 15-20mmHg Regular Beige Size C (Ankle: 9” - 9 7/8”; Calf: 14” - 17”)",
         "Package Count": "1 pair",
@@ -1463,7 +1463,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "268",
+        "Code": "268",
         "Product Name" : "Compression Stockings 15-20mmHg Regular Beige Size D (Ankle: 10” - 10 7/8”; Calf: 16” - 19”)",
         "Compare to": "JOBST® Compression Stockings 15-20mmHg Regular Beige Size D (Ankle: 10” - 10 7/8”; Calf: 16” - 19”)",
         "Package Count": "1 pair",
@@ -1480,7 +1480,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "269",
+        "Code": "269",
         "Product Name" : "Compression Stockings 15-20mmHg Regular Beige Size E (Ankle: 11” - 11 7/8”; Calf: 18” - 21”)",
         "Compare to": "JOBST® Compression Stockings 15-20mmHg Regular Beige Size E (Ankle: 11” - 11 7/8”; Calf: 18” - 21”)",
         "Package Count": "1 pair",
@@ -1497,7 +1497,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "270",
+        "Code": "270",
         "Product Name" : "Compression Stockings 15-20mmHg Regular Beige Size F (Ankle: 12” - 12 7/8”; Calf: 20” - 23”)",
         "Compare to": "JOBST® Compression Stockings 15-20mmHg Regular Beige Size F (Ankle: 12” - 12 7/8”; Calf: 20” - 23”)",
         "Package Count": "1 pair",
@@ -1514,7 +1514,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "271",
+        "Code": "271",
         "Product Name" : "Compression Stockings 15-20mmHg Regular Beige Size G (Ankle: 13” - 13 7/8”; Calf: 22” - 26”)",
         "Compare to": "JOBST® Compression Stockings 15-20mmHg Regular Beige Size G (Ankle: 13” - 13 7/8”; Calf: 22” - 26”)",
         "Package Count": "1 pair",
@@ -1531,7 +1531,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "272",
+        "Code": "272",
         "Product Name" : "Diabetic Skin Relief Foot Cream",
         "Compare to": "Gold Bond® Diabetic Skin Relief Foot Cream",
         "Package Count": "3.4 oz",
@@ -1548,7 +1548,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "274",
+        "Code": "274",
         "Product Name" : "Sharps Container",
         "Compare to": "BD™ Home Sharps Container",
         "Package Count": "1",
@@ -1565,7 +1565,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "278",
+        "Code": "278",
         "Product Name" : "Melatonin 5 mg",
         "Compare to": "Melatonin 5 mg",
         "Package Count": "100",
@@ -1582,7 +1582,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "279",
+        "Code": "279",
         "Product Name" : "Vitamin B-12 5000 mcg Sublingual",
         "Compare to": "Vitamin B-12 5000 mcg Sublingual",
         "Package Count": "30",
@@ -1599,7 +1599,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "280",
+        "Code": "280",
         "Product Name" : "Vitamin B-Complex Sublingual",
         "Compare to": "Vitamin B-Complex Sublingual",
         "Package Count": "60",
@@ -1616,7 +1616,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "283",
+        "Code": "283",
         "Product Name" : "Naproxen Sodium 220 mg",
         "Compare to": "Aleve®",
         "Package Count": "100",
@@ -1633,7 +1633,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "284",
+        "Code": "284",
         "Product Name" : "Toothbrush",
         "Compare to": "Toothbrush",
         "Package Count": "3",
@@ -1650,7 +1650,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "285",
+        "Code": "285",
         "Product Name" : "Toothpaste",
         "Compare to": "Toothpaste",
         "Package Count": "2",
@@ -1667,7 +1667,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "290",
+        "Code": "290",
         "Product Name" : "Loratadine Liquid 5 mg/5 ml",
         "Compare to": "Children’s Claritin®",
         "Package Count": "4 oz",
@@ -1684,7 +1684,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "291",
+        "Code": "291",
         "Product Name" : "Eye Itch Relief 0.025% Eye Drops",
         "Compare to": "Zaditor®",
         "Package Count": "0.17 oz",
@@ -1701,7 +1701,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "293",
+        "Code": "293",
         "Product Name" : "Triamcinolone Allergy Nasal Spray",
         "Compare to": "Nasacort® Allergy 24 hour",
         "Package Count": "0.57 oz",
@@ -1718,7 +1718,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "294",
+        "Code": "294",
         "Product Name" : "Acetaminophen 325 mg",
         "Compare to": "Tylenol® Regular Strength",
         "Package Count": "100",
@@ -1735,7 +1735,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "295",
+        "Code": "295",
         "Product Name" : "Oral Pain Relief - Benzocaine 20%",
         "Compare to": "Orajel™ Maximum",
         "Package Count": "0.5 oz",
@@ -1752,7 +1752,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "296",
+        "Code": "296",
         "Product Name" : "Wart Remover Liquid 17%",
         "Compare to": "Compound W® Max Strength",
         "Package Count": "0.31 oz",
@@ -1769,7 +1769,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "297",
+        "Code": "297",
         "Product Name" : "Antioxidant Tablets",
         "Compare to": "Antioxidant Tablets",
         "Package Count": "60",
@@ -1786,7 +1786,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "298",
+        "Code": "298",
         "Product Name" : "Ferrous Sulfate 5 gr",
         "Compare to": "Feosol® 100",
         "Package Count": "100",
@@ -1803,7 +1803,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "299",
+        "Code": "299",
         "Product Name" : "Gummy Multi-Vitamin",
         "Compare to": "Multi-Vitamin Gummy",
         "Package Count": "120",
@@ -1820,7 +1820,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "300",
+        "Code": "300",
         "Product Name" : "Gummy Vitamin C 250 mg",
         "Compare to": "Vitamin C 250 mg Gummy",
         "Package Count": "100",
@@ -1837,7 +1837,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "301",
+        "Code": "301",
         "Product Name" : "Gummy Vitamin D 2000 IU",
         "Compare to": "Vitamin D 2000 IU Gummy",
         "Package Count": "120",
@@ -1854,7 +1854,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "302",
+        "Code": "302",
         "Product Name" : "Magnesium Oxide 400 mg",
         "Compare to": "Mag-Ox® 400 mg",
         "Package Count": "120",
@@ -1871,7 +1871,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "303",
+        "Code": "303",
         "Product Name" : "Potassium Gluconate 595 mg",
         "Compare to": "Potassium Gluconate 595 mg",
         "Package Count": "100",
@@ -1888,7 +1888,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "304",
+        "Code": "304",
         "Product Name" : "Miconazole 3 Combo Pack",
         "Compare to": "Monistat® 3 Combo Pack",
         "Package Count": "3 day supply",
@@ -1905,7 +1905,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "305",
+        "Code": "305",
         "Product Name" : "Glucose Tablets (6 pack of 10 tablets)",
         "Compare to": "DEX4® Glucose Tablets",
         "Package Count": "60",
@@ -1922,7 +1922,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "306",
+        "Code": "306",
         "Product Name" : "Sunblock SPF 30",
         "Compare to": "Coppertone® SPF 30",
         "Package Count": "8 oz",
@@ -1939,7 +1939,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "307",
+        "Code": "307",
         "Product Name" : "Diaper Rash Ointment",
         "Compare to": "Desitin® Ointment",
         "Package Count": "2 oz",
@@ -1956,7 +1956,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "308",
+        "Code": "308",
         "Product Name" : "Vitamin A&D Ointment",
         "Compare to": "A&D® Original Ointment",
         "Package Count": "4 oz",
@@ -1973,7 +1973,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "309",
+        "Code": "309",
         "Product Name" : "Finger Pulse Oximeter",
         "Compare to": "Finger Pulse Oximeter",
         "Package Count": "1",
@@ -1990,7 +1990,7 @@
         "Limit One Per Plan Year": "YES"
         },
         {
-        "Product Code": "310",
+        "Code": "310",
         "Product Name" : "Reusable Cold Compress",
         "Compare to": "ACE™ Cold Compress",
         "Package Count": "1",
@@ -2007,7 +2007,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "313",
+        "Code": "313",
         "Product Name" : "Nicotine Transdermal 14 mg Patch",
         "Compare to": "Nicotine Transdermal Patch",
         "Package Count": "7",
@@ -2024,7 +2024,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "314",
+        "Code": "314",
         "Product Name" : "Nicotine Transdermal 21 mg Patch",
         "Compare to": "Nicotine Transdermal Patch",
         "Package Count": "7",
@@ -2041,7 +2041,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "315",
+        "Code": "315",
         "Product Name" : "Nicotine Transdermal 7 mg Patch",
         "Compare to": "Nicotine Transdermal Patch",
         "Package Count": "7",
@@ -2058,7 +2058,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "316",
+        "Code": "316",
         "Product Name" : "One Daily Men’s Multi-Vitamin",
         "Compare to": "One-A-Day Men’s®",
         "Package Count": "60",
@@ -2075,7 +2075,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "317",
+        "Code": "317",
         "Product Name" : "Organic Sulfur MSM 1000 mg",
         "Compare to": "Organic Sulfur MSM 1000 mg",
         "Package Count": "90",
@@ -2092,7 +2092,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "318",
+        "Code": "318",
         "Product Name" : "Anti-Diarrheal Caplets- Loperamide 2 mg",
         "Compare to": "Imodium® A-D",
         "Package Count": "24",
@@ -2109,7 +2109,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "319",
+        "Code": "319",
         "Product Name" : "Effervescent Denture Tabs",
         "Compare to": "Efferdent®",
         "Package Count": "90",
@@ -2126,7 +2126,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "320",
+        "Code": "320",
         "Product Name" : "Extra Strength Gas Relief Soft-Gels",
         "Compare to": "Gas-X® Extra Strength",
         "Package Count": "48",
@@ -2143,7 +2143,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "321",
+        "Code": "321",
         "Product Name" : "Cough Formula Expectorant",
         "Compare to": "Robitussin®",
         "Package Count": "8 oz",
@@ -2160,7 +2160,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "322",
+        "Code": "322",
         "Product Name" : "Hydrocortisone Cream 1%",
         "Compare to": "Cortaid®",
         "Package Count": "2 oz",
@@ -2177,7 +2177,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "323",
+        "Code": "323",
         "Product Name" : "Esomeprazole 20 mg",
         "Compare to": "Nexium® 24HR 22.3 mg (20mg of esomeprazole)",
         "Package Count": "28",
@@ -2194,7 +2194,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "324",
+        "Code": "324",
         "Product Name" : "Plastic Bandages",
         "Compare to": "Band-Aids®",
         "Package Count": "200",
@@ -2211,7 +2211,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "325",
+        "Code": "325",
         "Product Name" : "Saline Nasal Spray",
         "Compare to": "Ocean® Saline Nasal Spray",
         "Package Count": "3 oz",
@@ -2228,7 +2228,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "326",
+        "Code": "326",
         "Product Name" : "Urinary Pain Relief",
         "Compare to": "AZO Urinary Pain Relief",
         "Package Count": "30",
@@ -2245,7 +2245,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "327",
+        "Code": "327",
         "Product Name" : "Insect Repellent",
         "Compare to": "Off® Deep Woods® Insect Repellent",
         "Package Count": "6 oz",
@@ -2262,7 +2262,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "329",
+        "Code": "329",
         "Product Name" : "Compression Stockings 15-20mmHg Regular Black Size A (Ankle: 7” - 7 7/8”; Calf: 10” - 13”)",
         "Compare to": "JOBST® Compression Stockings 15-20mmHg Regular Black Size A (Ankle: 7” - 7 7/8”; Calf: 10” - 13”)",
         "Package Count": "1 pair",
@@ -2279,7 +2279,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "330",
+        "Code": "330",
         "Product Name" : "Compression Stockings 15-20mmHg Regular Black Size B (Ankle: 8” - 8 7/8”; Calf: 12” - 15”)",
         "Compare to": "JOBST® Compression Stockings 15-20mmHg Regular Black Size B (Ankle: 8” - 8 7/8”; Calf: 12” - 15”)",
         "Package Count": "1 pair",
@@ -2296,7 +2296,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "331",
+        "Code": "331",
         "Product Name" : "Compression Stockings 15-20mmHg Regular Black Size C (Ankle: 9” - 9 7/8”; Calf: 14” - 17”)",
         "Compare to": "JOBST® Compression Stockings 15-20mmHg Regular Black Size C (Ankle: 9” - 9 7/8”; Calf: 14” - 17”)",
         "Package Count": "1 pair",
@@ -2313,7 +2313,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "332",
+        "Code": "332",
         "Product Name" : "Compression Stockings 15-20mmHg Regular Black Size D (Ankle: 10” - 10 7/8”; Calf: 16” - 19”)",
         "Compare to": "JOBST® Compression Stockings 15-20mmHg Regular Black Size D (Ankle: 10” - 10 7/8”; Calf: 16” - 19”)",
         "Package Count": "1 pair",
@@ -2330,7 +2330,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "333",
+        "Code": "333",
         "Product Name" : "Compression Stockings 15-20mmHg Regular Black Size E (Ankle: 11” - 11 7/8”; Calf: 18” - 21”)",
         "Compare to": "JOBST® Compression Stockings 15-20mmHg Regular Black Size E (Ankle: 11” - 11 7/8”; Calf: 18” - 21”)",
         "Package Count": "1 pair",
@@ -2347,7 +2347,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "334",
+        "Code": "334",
         "Product Name" : "Compression Stockings 15-20mmHg Regular Black Size F (Ankle: 12” - 12 7/8”; Calf: 20” - 23”)",
         "Compare to": "JOBST® Compression Stockings 15-20mmHg Regular Black Size F (Ankle: 12” - 12 7/8”; Calf: 20” - 23”)",
         "Package Count": "1 pair",
@@ -2364,7 +2364,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "335",
+        "Code": "335",
         "Product Name" : "Compression Stockings 15-20mmHg Regular Black Size G (Ankle: 13” - 13 7/8”; Calf: 22” - 26”)",
         "Compare to": "JOBST® Compression Stockings 15-20mmHg Regular Black Size G (Ankle: 13” - 13 7/8”; Calf: 22” - 26”)",
         "Package Count": "1 pair",
@@ -2381,7 +2381,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "336",
+        "Code": "336",
         "Product Name" : "Ankle Support",
         "Compare to": "Futuro® Ankle Support",
         "Package Count": "1",
@@ -2398,7 +2398,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "337",
+        "Code": "337",
         "Product Name" : "Back Support Elastic - one size fits most",
         "Compare to": "Futuro® Back Support Elastic",
         "Package Count": "1",
@@ -2415,7 +2415,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "339",
+        "Code": "339",
         "Product Name" : "Elbow Support",
         "Compare to": "Futuro® Elbow Support",
         "Package Count": "1",
@@ -2432,7 +2432,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "340",
+        "Code": "340",
         "Product Name" : "Knee Support - L - 16” - 18.75”",
         "Compare to": "Futuro® Knee Support - L",
         "Package Count": "1",
@@ -2449,7 +2449,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "341",
+        "Code": "341",
         "Product Name" : "Knee Support - M - 13”- 15.75”",
         "Compare to": "Futuro® Knee Support - M",
         "Package Count": "1",
@@ -2466,7 +2466,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "342",
+        "Code": "342",
         "Product Name" : "Knee Support - S - 10” - 12.75”",
         "Compare to": "Futuro® Knee Support - S",
         "Package Count": "1",
@@ -2483,7 +2483,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "343",
+        "Code": "343",
         "Product Name" : "Wrist Support",
         "Compare to": "Futuro® Wrist Support",
         "Package Count": "1",
@@ -2500,7 +2500,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "344",
+        "Code": "344",
         "Product Name" : "Roll-on Muscle Relief",
         "Compare to": "Biofreeze®",
         "Package Count": "2.5 oz",
@@ -2517,7 +2517,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "345",
+        "Code": "345",
         "Product Name" : "Disposable Gloves - Non-Latex",
         "Compare to": "Curad®",
         "Package Count": "100",
@@ -2534,7 +2534,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "346",
+        "Code": "346",
         "Product Name" : "Lubricant Eye Gel",
         "Compare to": "GenTeal®",
         "Package Count": "0.34 oz",
@@ -2551,7 +2551,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "351",
+        "Code": "351",
         "Product Name" : "Nausea Relief Liquid",
         "Compare to": "Emetrol®",
         "Package Count": "4 oz",
@@ -2568,7 +2568,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "353",
+        "Code": "353",
         "Product Name" : "Children’s Acetaminophen Liquid",
         "Compare to": "Children’s Tylenol®",
         "Package Count": "4 oz",
@@ -2585,7 +2585,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "356",
+        "Code": "356",
         "Product Name" : "Refresh Optive Lubricant Eye Drops",
         "Compare to": "Refresh Optive® Lubricant Eye Drops",
         "Package Count": "0.5 oz",
@@ -2602,7 +2602,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "357",
+        "Code": "357",
         "Product Name" : "Knee Support - XL - 19”- 21.75”",
         "Compare to": "Futuro® Knee Support - XL",
         "Package Count": "1",
@@ -2619,7 +2619,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "358",
+        "Code": "358",
         "Product Name" : "Medicated Hemorrhoidal Pads",
         "Compare to": "Tucks® Pads",
         "Package Count": "100",
@@ -2636,7 +2636,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "359",
+        "Code": "359",
         "Product Name" : "Psyllium Fiber Supplement Orange Smooth Texture Powder",
         "Compare to": "Metamucil®",
         "Package Count": "13 oz",
@@ -2653,7 +2653,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "360",
+        "Code": "360",
         "Product Name" : "Psyllium Fiber Supplement Orange Smooth Texture Powder - Sugar Free",
         "Compare to": "Metamucil® Sugar Free",
         "Package Count": "10 oz",
@@ -2670,7 +2670,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "361",
+        "Code": "361",
         "Product Name" : "Levocetirizine",
         "Compare to": "Xyzal®",
         "Package Count": "35",
@@ -2687,7 +2687,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "362",
+        "Code": "362",
         "Product Name" : "Nasal Strips - Medium",
         "Compare to": "Breathe Right® Nasal Strips",
         "Package Count": "30",
@@ -2704,7 +2704,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "363",
+        "Code": "363",
         "Product Name" : "Arthritis Gloves - Large",
         "Compare to": "Vive® Arthritis Gloves",
         "Package Count": "1 pair",
@@ -2721,7 +2721,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "364",
+        "Code": "364",
         "Product Name" : "Arthritis Gloves - Medium",
         "Compare to": "Vive® Arthritis Gloves",
         "Package Count": "1 pair",
@@ -2738,7 +2738,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "365",
+        "Code": "365",
         "Product Name" : "Lidocaine Patches",
         "Compare to": "Salonpas® Lidocaine Patches",
         "Package Count": "5",
@@ -2755,7 +2755,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "366",
+        "Code": "366",
         "Product Name" : "Bladder Control Guards for Men",
         "Compare to": "FitRight® Active Bladder Guards for Men",
         "Package Count": "52",
@@ -2772,7 +2772,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "367",
+        "Code": "367",
         "Product Name" : "Co-Enzyme Q-10 100 mg",
         "Compare to": "Co-Enzyme Q-10 100 mg",
         "Package Count": "30",
@@ -2789,7 +2789,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "368",
+        "Code": "368",
         "Product Name" : "Diabetic Foot Care Telescoping Inspection Mirror",
         "Compare to": "Telescoping Mirror",
         "Package Count": "1",
@@ -2806,7 +2806,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "369",
+        "Code": "369",
         "Product Name" : "Flushable Cleansing Cloths",
         "Compare to": "Cottonelle®",
         "Package Count": "40",
@@ -2823,7 +2823,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "370",
+        "Code": "370",
         "Product Name" : "Medication Disposal Powder",
         "Compare to": "DisposeRx™",
         "Package Count": "3",
@@ -2840,7 +2840,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "371",
+        "Code": "371",
         "Product Name" : "Bath Mat**",
         "Compare to": "Bath Mat",
         "Package Count": "1",
@@ -2857,7 +2857,7 @@
         "Limit One Per Plan Year": "YES"
         },
         {
-        "Product Code": "372",
+        "Code": "372",
         "Product Name" : "Raised Toilet Seat - 250 lbs. capacity**",
         "Compare to": "Raised Toilet Seat - 250 lbs. capacity",
         "Package Count": "1",
@@ -2874,7 +2874,7 @@
         "Limit One Per Plan Year": "YES"
         },
         {
-        "Product Code": "373",
+        "Code": "373",
         "Product Name" : "Tub and Stair Safety Treads",
         "Compare to": "Tub and Stair Safety Treads",
         "Package Count": "8",
@@ -2891,7 +2891,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "374",
+        "Code": "374",
         "Product Name" : "Diabetes Circulatory Crew Socks 8-15mmHg Black - L",
         "Compare to": "Diabetes Circulatory Crew Socks 8-15mmHg Black - L",
         "Package Count": "1 pair",
@@ -2908,7 +2908,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "375",
+        "Code": "375",
         "Product Name" : "Diabetes Circulatory Crew Socks 8-15mmHg Black - M",
         "Compare to": "Diabetes Circulatory Crew Socks 8-15mmHg Black - M",
         "Package Count": "1 pair",
@@ -2925,7 +2925,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "376",
+        "Code": "376",
         "Product Name" : "Diabetes Circulatory Crew Socks 8-15mmHg Black - S",
         "Compare to": "Diabetes Circulatory Crew Socks 8-15mmHg Black - S",
         "Package Count": "1 pair",
@@ -2942,7 +2942,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "377",
+        "Code": "377",
         "Product Name" : "Diabetes Circulatory Crew Socks 8-15mmHg Black - XL",
         "Compare to": "Diabetes Circulatory Crew Socks 8-15mmHg Black - XL",
         "Package Count": "1 pair",
@@ -2959,7 +2959,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "379",
+        "Code": "379",
         "Product Name" : "Diabetes Circulatory Crew Socks 8-15mmHg White - L",
         "Compare to": "Diabetes Circulatory Crew Socks 8-15mmHg White - L",
         "Package Count": "1 pair",
@@ -2976,7 +2976,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "380",
+        "Code": "380",
         "Product Name" : "Diabetes Circulatory Crew Socks 8-15mmHg White - M",
         "Compare to": "Diabetes Circulatory Crew Socks 8-15mmHg White - M",
         "Package Count": "1 pair",
@@ -2993,7 +2993,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "381",
+        "Code": "381",
         "Product Name" : "Diabetes Circulatory Crew Socks 8-15mmHg White - S",
         "Compare to": "Diabetes Circulatory Crew Socks 8-15mmHg White - S",
         "Package Count": "1 pair",
@@ -3010,7 +3010,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "382",
+        "Code": "382",
         "Product Name" : "Diabetes Circulatory Crew Socks 8-15mmHg White - XL",
         "Compare to": "Diabetes Circulatory Crew Socks 8-15mmHg White - XL",
         "Package Count": "1 pair",
@@ -3027,7 +3027,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "384",
+        "Code": "384",
         "Product Name" : "Waterproof Adhesive Bandages",
         "Compare to": "Waterproof Adhesive Bandages",
         "Package Count": "100",
@@ -3044,7 +3044,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "385",
+        "Code": "385",
         "Product Name" : "First Aid Kit - 175 Pieces",
         "Compare to": "Curad® First Aid Kit - 175 pcs.",
         "Package Count": "1 kit",
@@ -3061,7 +3061,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "386",
+        "Code": "386",
         "Product Name" : "Quad Cane Large Base - 300 lbs. Capacity**",
         "Compare to": "Quad Cane Large Base - 300 lbs. Capacity",
         "Package Count": "1",
@@ -3078,7 +3078,7 @@
         "Limit One Per Plan Year": "YES"
         },
         {
-        "Product Code": "387",
+        "Code": "387",
         "Product Name" : "Quad Cane Small Base - 300 lbs. Capacity**",
         "Compare to": "Quad Cane Small Base - 300 lbs. Capacity",
         "Package Count": "1",
@@ -3095,7 +3095,7 @@
         "Limit One Per Plan Year": "YES"
         },
         {
-        "Product Code": "388",
+        "Code": "388",
         "Product Name" : "Insect Bite Relief",
         "Compare to": "After Bite®",
         "Package Count": "0.5 oz",
@@ -3112,7 +3112,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "389",
+        "Code": "389",
         "Product Name" : "Battery Power Toothbrush Replacement Heads (Used with product 390 only)",
         "Compare to": "Battery Power Toothbrush Replacement Heads",
         "Package Count": "2",
@@ -3129,7 +3129,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "390",
+        "Code": "390",
         "Product Name" : "Battery Power Toothbrush**",
         "Compare to": "Battery Power Toothbrush",
         "Package Count": "1",
@@ -3146,7 +3146,7 @@
         "Limit One Per Plan Year": "YES"
         },
         {
-        "Product Code": "391",
+        "Code": "391",
         "Product Name" : "Dental Flossers",
         "Compare to": "Dental Flossers",
         "Package Count": "90",
@@ -3163,7 +3163,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "392",
+        "Code": "392",
         "Product Name" : "Denture Brush",
         "Compare to": "GUM® Denture Brush",
         "Package Count": "1",
@@ -3180,7 +3180,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "393",
+        "Code": "393",
         "Product Name" : "Dry Mouth Oral Rinse",
         "Compare to": "Biotene® Dry Mouth Oral Rinse",
         "Package Count": "16 oz",
@@ -3197,7 +3197,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "394",
+        "Code": "394",
         "Product Name" : "Disposable Briefs Extra Absorbency - L",
         "Compare to": "FitRight® Disposable Briefs Extra Absorbency - L",
         "Package Count": "20",
@@ -3214,7 +3214,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "395",
+        "Code": "395",
         "Product Name" : "Disposable Briefs Extra Absorbency - M",
         "Compare to": "FitRight® Disposable Briefs Extra Absorbency - M",
         "Package Count": "20",
@@ -3231,7 +3231,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "396",
+        "Code": "396",
         "Product Name" : "Disposable Briefs Extra Absorbency - S",
         "Compare to": "FitRight® Disposable Briefs Extra Absorbency - S",
         "Package Count": "20",
@@ -3248,7 +3248,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "397",
+        "Code": "397",
         "Product Name" : "Disposable Briefs Extra Absorbency - XL",
         "Compare to": "FitRight® Disposable Briefs Extra Absorbency - XL",
         "Package Count": "20",
@@ -3265,7 +3265,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "398",
+        "Code": "398",
         "Product Name" : "Disposable Briefs Extra Absorbency - XXL",
         "Compare to": "FitRight® Disposable Briefs Extra Absorbency - XXL",
         "Package Count": "20",
@@ -3282,7 +3282,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "399",
+        "Code": "399",
         "Product Name" : "Disposable Briefs Ultra Absorbency - L",
         "Compare to": "FitRight® Disposable Briefs Ultra Absorbency - L",
         "Package Count": "20",
@@ -3299,7 +3299,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "400",
+        "Code": "400",
         "Product Name" : "Disposable Briefs Ultra Absorbency - M",
         "Compare to": "FitRight® Disposable Briefs Ultra Absorbency - M",
         "Package Count": "20",
@@ -3316,7 +3316,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "401",
+        "Code": "401",
         "Product Name" : "Disposable Briefs Ultra Absorbency - S",
         "Compare to": "FitRight® Disposable Briefs Ultra Absorbency - S",
         "Package Count": "20",
@@ -3333,7 +3333,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "402",
+        "Code": "402",
         "Product Name" : "Disposable Briefs Ultra Absorbency - XL",
         "Compare to": "FitRight® Disposable Briefs Ultra Absorbency - XL",
         "Package Count": "20",
@@ -3350,7 +3350,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "403",
+        "Code": "403",
         "Product Name" : "Disposable Briefs Ultra Absorbency - XXL",
         "Compare to": "FitRight® Disposable Briefs Ultra Absorbency - XXL",
         "Package Count": "20",
@@ -3367,7 +3367,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "404",
+        "Code": "404",
         "Product Name" : "Medicated Foot Powder",
         "Compare to": "Gold Bond® Medicated Foot Powder",
         "Package Count": "4 oz",
@@ -3384,7 +3384,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "405",
+        "Code": "405",
         "Product Name" : "Preservative Free Lubricant Eye Drops",
         "Compare to": "Refresh Optive®",
         "Package Count": "30",
@@ -3401,7 +3401,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "406",
+        "Code": "406",
         "Product Name" : "Rechargeable Power Toothbrush Replacement Heads (Used with product 407 only)",
         "Compare to": "Rechargeable Power ToothbrushReplacement Heads",
         "Package Count": "2",
@@ -3418,7 +3418,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "407",
+        "Code": "407",
         "Product Name" : "Rechargeable Power Toothbrush**",
         "Compare to": "Rechargeable Power Toothbrush",
         "Package Count": "1",
@@ -3435,7 +3435,7 @@
         "Limit One Per Plan Year": "YES"
         },
         {
-        "Product Code": "408",
+        "Code": "408",
         "Product Name" : "Diabetic Skin Relief",
         "Compare to": "Gold Bond ® Ultimate Diabetics' Dry Skin Relief Hydrating Lotion",
         "Package Count": "4.5 oz",
@@ -3452,7 +3452,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "409",
+        "Code": "409",
         "Product Name" : "Eczema Moisturizing Cream",
         "Compare to": "Aveeno® Active Naturals® Eczema Therapy Moisturizing Cream",
         "Package Count": "5 oz",
@@ -3469,7 +3469,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "410",
+        "Code": "410",
         "Product Name" : "Psoriasis Medicated Ointment",
         "Compare to": "Psoriasis Medicated Ointment",
         "Package Count": "3.8 oz",
@@ -3486,7 +3486,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "411",
+        "Code": "411",
         "Product Name" : "Soothing Oatmeal Bath Treatment",
         "Compare to": "Aveeno® Soothing Bath Treatment",
         "Package Count": "8",
@@ -3503,7 +3503,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "412",
+        "Code": "412",
         "Product Name" : "Glucosamine Chondroitin Triple Strength",
         "Compare to": "Glucosamine Chondroitin Triple Strength",
         "Package Count": "100",
@@ -3520,7 +3520,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "413",
+        "Code": "413",
         "Product Name" : "Omega-3 Fish Oil 1000 mg",
         "Compare to": "Omega-3 Fish Oil 1000 mg",
         "Package Count": "90",
@@ -3537,7 +3537,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "414",
+        "Code": "414",
         "Product Name" : "Medicated Lip Treatment Squeeze Tube - 2 Pack",
         "Compare to": "Carmex®",
         "Package Count": "2",
@@ -3554,7 +3554,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "415",
+        "Code": "415",
         "Product Name" : "Fiber Gummies",
         "Compare to": "Vitafusion Fiber Gummy 90CT",
         "Package Count": "90",
@@ -3571,7 +3571,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "416",
+        "Code": "416",
         "Product Name" : "Adjustable Transfer Bench",
         "Compare to": "Adjustable Transfer Bench",
         "Package Count": "1",
@@ -3588,7 +3588,7 @@
         "Limit One Per Plan Year": "YES"
         },
         {
-        "Product Code": "417",
+        "Code": "417",
         "Product Name" : "Bath Bench with Arms and Back",
         "Compare to": "Bath Bench with Arms and Back",
         "Package Count": "1",
@@ -3605,7 +3605,7 @@
         "Limit One Per Plan Year": "YES"
         },
         {
-        "Product Code": "418",
+        "Code": "418",
         "Product Name" : "Bath Bench with Arms, no Back",
         "Compare to": "Bath Bench with Arms, no Back",
         "Package Count": "1",
@@ -3622,7 +3622,7 @@
         "Limit One Per Plan Year": "YES"
         },
         {
-        "Product Code": "419",
+        "Code": "419",
         "Product Name" : "Plug-in LED Nightlights",
         "Compare to": "Plug-in LED Nightlights",
         "Package Count": "1",
@@ -3639,7 +3639,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "420",
+        "Code": "420",
         "Product Name" : "Toilet Safety Rails",
         "Compare to": "Toilet Safety Rails",
         "Package Count": "1",
@@ -3656,7 +3656,7 @@
         "Limit One Per Plan Year": "YES"
         },
         {
-        "Product Code": "421",
+        "Code": "421",
         "Product Name" : "Tub Safety Bar",
         "Compare to": "Tub Safety Bar",
         "Package Count": "1",
@@ -3673,7 +3673,7 @@
         "Limit One Per Plan Year": "YES"
         },
         {
-        "Product Code": "422",
+        "Code": "422",
         "Product Name" : "Cough Drops, Black Cherry,  Sugar Free ",
         "Compare to": "Halls Cough Drops - Black Cherry (Sugar Free)",
         "Package Count": "25",
@@ -3690,7 +3690,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "423",
+        "Code": "423",
         "Product Name" : "Cough Drops, Honey Lemon",
         "Compare to": "Halls Cough Drops - Honey Lemon",
         "Package Count": "30",
@@ -3707,7 +3707,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "424",
+        "Code": "424",
         "Product Name" : "Steam Inhaler",
         "Compare to": "Inhaler Personal Steam V1300 Vicks®",
         "Package Count": "1",
@@ -3724,7 +3724,7 @@
         "Limit One Per Plan Year": "YES"
         },
         {
-        "Product Code": "425",
+        "Code": "425",
         "Product Name" : "Elastic Bandage 6",
         "Compare to": "GNP Elastic Bandage Self Adhesive 6 Inch Bandage",
         "Package Count": "1",
@@ -3741,7 +3741,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "426",
+        "Code": "426",
         "Product Name" : "Gauze Roll 4.5 X 4.1 yards",
         "Compare to": "Curad Bandage Roll 4.5X4.1YD",
         "Package Count": "1",
@@ -3758,7 +3758,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "427",
+        "Code": "427",
         "Product Name" : "Hand Sanitizer (limit 1 per person)",
         "Compare to": "Purell",
         "Package Count": "8 oz",
@@ -3775,7 +3775,7 @@
         "Limit One Per Plan Year": "YES"
         },
         {
-        "Product Code": "428",
+        "Code": "428",
         "Product Name" : "Hot Water Bottle",
         "Compare to": "CURAD Hot Water Bottle",
         "Package Count": "1",
@@ -3792,7 +3792,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "429",
+        "Code": "429",
         "Product Name" : "Hydrogen Peroxide",
         "Compare to": "Hydrogen Peroxide",
         "Package Count": "16 oz",
@@ -3809,7 +3809,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "430",
+        "Code": "430",
         "Product Name" : "Ice Bag",
         "Compare to": "Ice Bag",
         "Package Count": "1",
@@ -3826,7 +3826,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "431",
+        "Code": "431",
         "Product Name" : "Paper Tape 2 X 10 yards",
         "Compare to": "Nexcare Tape Paper 2X10YD",
         "Package Count": "1",
@@ -3843,7 +3843,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "432",
+        "Code": "432",
         "Product Name" : "Petroleum Jelly",
         "Compare to": "Vasoline",
         "Package Count": "4 oz",
@@ -3860,7 +3860,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "433",
+        "Code": "433",
         "Product Name" : "Rubbing Alcohol",
         "Compare to": "Rubbing Alcohol",
         "Package Count": "16 oz",
@@ -3877,7 +3877,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "434",
+        "Code": "434",
         "Product Name" : "Fitbit Charge 3 (comes with small and large bands)",
         "Compare to": "Fitbit Charge 3",
         "Package Count": "1",
@@ -3894,7 +3894,7 @@
         "Limit One Per Plan Year": "YES"
         },
         {
-        "Product Code": "435",
+        "Code": "435",
         "Product Name" : "Fitbit Inspire (comes with small and large bands)",
         "Compare to": "Fitbit Inspire",
         "Package Count": "1",
@@ -3911,7 +3911,7 @@
         "Limit One Per Plan Year": "YES"
         },
         {
-        "Product Code": "436",
+        "Code": "436",
         "Product Name" : "Fitbit Inspire HR (comes with small and large bands)",
         "Compare to": "Fitbit Inspire HR",
         "Package Count": "1",
@@ -3928,7 +3928,7 @@
         "Limit One Per Plan Year": "YES"
         },
         {
-        "Product Code": "437",
+        "Code": "437",
         "Product Name" : "Fitbit Versa Lite (comes with small and large bands)",
         "Compare to": "Fitbit Versa Lite",
         "Package Count": "1",
@@ -3945,7 +3945,7 @@
         "Limit One Per Plan Year": "YES"
         },
         {
-        "Product Code": "438",
+        "Code": "438",
         "Product Name" : "vivofit 4 - Black",
         "Compare to": "Garmin Vivofit 4",
         "Package Count": "1",
@@ -3962,7 +3962,7 @@
         "Limit One Per Plan Year": "YES"
         },
         {
-        "Product Code": "440",
+        "Code": "440",
         "Product Name" : "vivosmart 4 - Black",
         "Compare to": "Garmin Vivosmart 4",
         "Package Count": "1",
@@ -3979,7 +3979,7 @@
         "Limit One Per Plan Year": "YES"
         },
         {
-        "Product Code": "441",
+        "Code": "441",
         "Product Name" : "Pedometer",
         "Compare to": "Pedometer HJ320 Omron",
         "Package Count": "1",
@@ -3996,7 +3996,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "442",
+        "Code": "442",
         "Product Name" : "Carpal Tunnel Night Brace",
         "Compare to": "FUTURO WRIST SUPPORT NITE ADJ",
         "Package Count": "1",
@@ -4013,7 +4013,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "443",
+        "Code": "443",
         "Product Name" : "CPAP Memory Foam Pillow",
         "Compare to": "CPAP Memory Foam Pillow 4",
         "Package Count": "1",
@@ -4030,7 +4030,7 @@
         "Limit One Per Plan Year": "YES"
         },
         {
-        "Product Code": "444",
+        "Code": "444",
         "Product Name" : "CPAP Pillow Fiber Filled",
         "Compare to": "CPAP Fiber Filled Pillow 4",
         "Package Count": "1",
@@ -4047,7 +4047,7 @@
         "Limit One Per Plan Year": "YES"
         },
         {
-        "Product Code": "445",
+        "Code": "445",
         "Product Name" : "Digital Hearing Amplifier",
         "Compare to": "Doran Scales",
         "Package Count": "1",
@@ -4064,7 +4064,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "446",
+        "Code": "446",
         "Product Name" : "Magnifying Glass",
         "Compare to": "Magnifying Glass",
         "Package Count": "1",
@@ -4081,7 +4081,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "447",
+        "Code": "447",
         "Product Name" : "Foam Ring Cushion",
         "Compare to": "Carex Cush Individual Ring Foam W/Cover",
         "Package Count": "1",
@@ -4098,7 +4098,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "448",
+        "Code": "448",
         "Product Name" : "Large Heating Pad Wrap",
         "Compare to": "Large Heating Pad Wrap",
         "Package Count": "1",
@@ -4115,7 +4115,7 @@
         "Limit One Per Plan Year": "YES"
         },
         {
-        "Product Code": "449",
+        "Code": "449",
         "Product Name" : "Humidifier, Ultra-Sonic Cool Mist",
         "Compare to": "Crane Droplet Ultrasonic Cool Mist Humidifier",
         "Package Count": "1",
@@ -4132,7 +4132,7 @@
         "Limit One Per Plan Year": "YES"
         },
         {
-        "Product Code": "450",
+        "Code": "450",
         "Product Name" : "Hypoallergenic pillow",
         "Compare to": "High Quality Pillow with Hypoallergenic Properties",
         "Package Count": "1",
@@ -4149,7 +4149,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "451",
+        "Code": "451",
         "Product Name" : "Lumbar Cushion",
         "Compare to": "Tena Ultraflush",
         "Package Count": "1",
@@ -4166,7 +4166,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "452",
+        "Code": "452",
         "Product Name" : "Medical Bracelet - Diabetes",
         "Compare to": "Medical Bracelet - Diabetes",
         "Package Count": "1",
@@ -4183,7 +4183,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "453",
+        "Code": "453",
         "Product Name" : "Medical Bracelet - Heart Patient",
         "Compare to": "Medical Bracelet - Heart Patient",
         "Package Count": "1",
@@ -4200,7 +4200,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "454",
+        "Code": "454",
         "Product Name" : "No-Touch Forehead Thermometer",
         "Compare to": "No-Touch Forehead Thermometer ",
         "Package Count": "1",
@@ -4217,7 +4217,7 @@
         "Limit One Per Plan Year": "YES"
         },
         {
-        "Product Code": "455",
+        "Code": "455",
         "Product Name" : "Peak Flow Meter",
         "Compare to": "Peak Flow Meter",
         "Package Count": "1",
@@ -4234,7 +4234,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "456",
+        "Code": "456",
         "Product Name" : "Pill Bottle Opener",
         "Compare to": "Pill Bottle Opener",
         "Package Count": "1",
@@ -4251,7 +4251,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "457",
+        "Code": "457",
         "Product Name" : "Pill Splitter & Crusher",
         "Compare to": "Pill Splitter & Crusher",
         "Package Count": "1",
@@ -4268,7 +4268,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "458",
+        "Code": "458",
         "Product Name" : "Medication Lock",
         "Compare to": "Medication Lock",
         "Package Count": "1",
@@ -4285,7 +4285,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "459",
+        "Code": "459",
         "Product Name" : "Plantar Fasciitis Relief Sleeve",
         "Compare to": "Plantar Fasciitis Relief Sleeve",
         "Package Count": "2",
@@ -4302,7 +4302,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "460",
+        "Code": "460",
         "Product Name" : "Talking Blood Pressure Monitor",
         "Compare to": "Talking Blood Pressure Monitor",
         "Package Count": "1",
@@ -4319,7 +4319,7 @@
         "Limit One Per Plan Year": "YES"
         },
         {
-        "Product Code": "461",
+        "Code": "461",
         "Product Name" : "Talking Digital Bathroom Scale",
         "Compare to": "Talking Digital Bathroom Scale",
         "Package Count": "1",
@@ -4336,7 +4336,7 @@
         "Limit One Per Plan Year": "YES"
         },
         {
-        "Product Code": "462",
+        "Code": "462",
         "Product Name" : "Talking Ear and Forehead Thermometer",
         "Compare to": "Talking Ear and Forehead Thermometer",
         "Package Count": "1",
@@ -4353,7 +4353,7 @@
         "Limit One Per Plan Year": "YES"
         },
         {
-        "Product Code": "463",
+        "Code": "463",
         "Product Name" : "Weighted Utensil Set",
         "Compare to": "Essential Weighted Utensil Set",
         "Package Count": "1",
@@ -4370,7 +4370,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "464",
+        "Code": "464",
         "Product Name" : "Spray-On Muscle Relief",
         "Compare to": "Biofreeze",
         "Package Count": "4 oz",
@@ -4387,7 +4387,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "465",
+        "Code": "465",
         "Product Name" : "Bunion Guard",
         "Compare to": "Bunion Guard",
         "Package Count": "1",
@@ -4404,7 +4404,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "466",
+        "Code": "466",
         "Product Name" : "Folding Reading Glasses +1.50",
         "Compare to": "Piranha Folding reading glasses +1.50",
         "Package Count": "1",
@@ -4421,7 +4421,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "467",
+        "Code": "467",
         "Product Name" : "Folding Reading Glasses +1.75",
         "Compare to": "Piranha Folding reading glasses +1.75",
         "Package Count": "1",
@@ -4438,7 +4438,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "468",
+        "Code": "468",
         "Product Name" : "Folding Reading Glasses +2.00",
         "Compare to": "Piranha Folding reading glasses +2.00",
         "Package Count": "1",
@@ -4455,7 +4455,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "469",
+        "Code": "469",
         "Product Name" : "Folding Reading Glasses +2.25",
         "Compare to": "Piranha Folding reading glasses +2.25",
         "Package Count": "1",
@@ -4472,7 +4472,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "470",
+        "Code": "470",
         "Product Name" : "Folding Reading Glasses +2.50",
         "Compare to": "Piranha Folding reading glasses +2.50",
         "Package Count": "1",
@@ -4489,7 +4489,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "471",
+        "Code": "471",
         "Product Name" : "Battery Operated Water Jet",
         "Compare to": "Conair Interplak Battery-Operated Dental Water Jet",
         "Package Count": "1",
@@ -4506,7 +4506,7 @@
         "Limit One Per Plan Year": "YES"
         },
         {
-        "Product Code": "472",
+        "Code": "472",
         "Product Name" : "Battery Operated Water Jet Tips",
         "Compare to": "Conair Interplak Battery-Operated Dental Water Jet Tips",
         "Package Count": "5",
@@ -4523,7 +4523,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "473",
+        "Code": "473",
         "Product Name" : "Moleskin",
         "Compare to": "GNP Moleskin SUPR 3",
         "Package Count": "3",
@@ -4540,7 +4540,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "474",
+        "Code": "474",
         "Product Name" : "Immune Support Chewable Tablets",
         "Compare to": "GNP Immune Support Chew Tab - Citrus 32CT",
         "Package Count": "32",
@@ -4557,7 +4557,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "475",
+        "Code": "475",
         "Product Name" : "Biotin with Vitamin C & E",
         "Compare to": "Vitafusion - Biotin with Vitamin C & E",
         "Package Count": "100",
@@ -4574,7 +4574,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "476",
+        "Code": "476",
         "Product Name" : "Calcium with Vitamin D3",
         "Compare to": "Vitafusion - Calcium with Vitamin D3",
         "Package Count": "60",
@@ -4591,7 +4591,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "477",
+        "Code": "477",
         "Product Name" : "Flax Seed Oil 1000 mg softgels",
         "Compare to": "GNP Flaxseed 1000mg SGC 100CT",
         "Package Count": "100",
@@ -4608,7 +4608,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "479",
+        "Code": "479",
         "Product Name" : "VitaJoy Melatonin 5mg Gmy 120",
         "Compare to": "21st Century VitaJoy Melatonin 5mg Gmy 120",
         "Package Count": "120",
@@ -4625,7 +4625,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "481",
+        "Code": "481",
         "Product Name" : "Rena-vite Vitamins",
         "Compare to": "Rena-Vite Tablet 100CT",
         "Package Count": "100",
@@ -4642,7 +4642,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "482",
+        "Code": "482",
         "Product Name" : "B-Complex with Vitamin C",
         "Compare to": "Vitafusion - B-Complex with Vitamin C",
         "Package Count": "70",
@@ -4659,7 +4659,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "483",
+        "Code": "483",
         "Product Name" : "Vitamin D 50,000 IU",
         "Compare to": "Vitamin D3 50,000 IU 12 Caps",
         "Package Count": "12",
@@ -4676,7 +4676,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "484",
+        "Code": "484",
         "Product Name" : "Urinary Tract Infection Test Strips",
         "Compare to": "AZO Test Strip 3CT",
         "Package Count": "3",
@@ -4693,7 +4693,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "485",
+        "Code": "485",
         "Product Name" : "Disposable Face Masks (Limit 3 per month)",
         "Compare to": "Disposable Face Masks (Limit 3 per month)",
         "Package Count": "10",
@@ -4710,7 +4710,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "486",
+        "Code": "486",
         "Product Name" : "Cloth Face Mask (Limit 1 per month)",
         "Compare to": "Cloth Face Mask (Limit 1 per month)",
         "Package Count": "3",
@@ -4727,7 +4727,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "582",
+        "Code": "582",
         "Product Name" : "PDP Personal Care Kits",
         "Compare to": "PDP Personal Care Kits",
         "Package Count": "1",
@@ -4744,7 +4744,7 @@
         "Limit One Per Plan Year": "YES"
         },
         {
-        "Product Code": "902",
+        "Code": "902",
         "Product Name" : "Co-Enzyme Q-10 30 mg",
         "Compare to": "Co-Enzyme Q-10 30 mg",
         "Package Count": "30",
@@ -4761,7 +4761,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "903",
+        "Code": "903",
         "Product Name" : "Vitamin B-Complex with B-12",
         "Compare to": "Vitamin B-Complex with B-12",
         "Package Count": "100",
@@ -4778,7 +4778,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "907",
+        "Code": "907",
         "Product Name" : "Eye Care Vitamins",
         "Compare to": "Ocuvite® Extra",
         "Package Count": "36",
@@ -4795,7 +4795,7 @@
         "Limit One Per Plan Year": ""
         },
         {
-        "Product Code": "909",
+        "Code": "909",
         "Product Name" : "Timed Release Niacin 500 mg",
         "Compare to": "Timed Release Niacin 500 mg",
         "Package Count": "100",
